@@ -228,6 +228,7 @@ button:active {
 
 .books {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .book {
@@ -272,3 +273,5 @@ button:active {
   padding-right: 6px;
   color: #bfbfbf;
 }
+
+/* lATEST */
