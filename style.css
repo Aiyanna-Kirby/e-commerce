@@ -210,6 +210,10 @@ button:active {
   margin-bottom: 24px;
 }
 
+.section__title {
+  margin: 0 0 30px;
+}
+
 .highlight__subtitle {
   font-size: 20px;
   margin-bottom: 16px;
