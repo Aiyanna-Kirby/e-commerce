@@ -256,6 +256,7 @@ button:active {
 .book__title {
   font-size: 20px;
   margin-bottom: 8px;
+  padding: 0 20px;
 }
 
 .book__title:hover {
@@ -266,12 +267,14 @@ button:active {
 .book__ratings {
   margin-bottom: 8px;
   color: #fabf2a;
+  padding: 0 20px;
 }
 
 .book__price--normal {
   text-decoration: line-through;
   padding-right: 6px;
   color: #bfbfbf;
+  padding: 0 20px;
 }
 
 /* lATEST */
